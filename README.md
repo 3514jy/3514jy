@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 금융 개발자 박지연입니다. 👋
 
 <!--
 **3514jy/3514jy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
